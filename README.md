@@ -12,4 +12,4 @@ Analisis ini bertujuan untuk memahami pola perilaku pelanggan berdasarkan RFM (R
 - Customer Champions menunjukkan response paling tinggi terhadap campaign.
 
 ## Author
-Jessica Tanwijaya — Data Analyst Train
+Jessica Tanwijaya
